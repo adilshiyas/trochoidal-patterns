@@ -18,12 +18,6 @@ The design methodology for enforcing these constraints is discussed in detail in
 ## Real-World Implementation
 
 The following videos demonstrate collision-free trochoidal trajectories executed by a multi-robot indoor mobile robot platform.
-<p align="center">
-  <video controls width="80%">
-    <source src="videos/Troch_16x_PVs.mp4" type="video/mp4">
-  </video><br>
-  Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
-</p>
 
 <video width="720" height="405" controls autoplay muted loop playsinline>
 <source src='https://github.com/media/adilshiyas/adilshiyas.github.io/blob/master/Troch_16x_PV (1).mp4?raw=true' type="video/mp4">
@@ -43,3 +37,7 @@ The following videos demonstrate collision-free trochoidal trajectories executed
 </video>
 
 https://github.com/adilshiyas/adilshiyas.github.io/assets/153742460/f4bb2ff9-1873-4609-8347-361bcf31748e
+
+<p align="center">
+  Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
+</p>
