@@ -1,2 +1,6 @@
-# trochoidal-patterns
-A design approach for a distributed consensus protocol that allows a connected swarm of agents to generate artistic patterns while satisfying several geometric and temporal constraints
+# Trochoidal Paths for a Multi-Robot Swarm
+
+This repository contains MATLAB simulation code associated with the paper:  
+> **Design of planar collision-free trochoidal paths for a multi-robot swarm**
+> Adil Shiyas, Sachit Rao
+> European Journal of Control, 2025
