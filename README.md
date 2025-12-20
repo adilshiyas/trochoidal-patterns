@@ -42,6 +42,4 @@ The following videos demonstrate collision-free trochoidal trajectories executed
 <source src="https://github.com/adilshiyas/adilshiyas.github.io/blob/main/Troch_16x_PVs.mp4" type="video/mp4">
 </video>
 
-https://github.com/adilshiyas/adilshiyas.github.io/blob/main/Troch_16x_PV%20(1).mp4
-
 https://github.com/adilshiyas/adilshiyas.github.io/assets/153742460/f4bb2ff9-1873-4609-8347-361bcf31748e
