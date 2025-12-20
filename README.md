@@ -41,3 +41,12 @@ https://github.com/adilshiyas/adilshiyas.github.io/assets/153742460/f4bb2ff9-187
 <p align="center">
   Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
 </p>
+
+<p align="center">
+  <video width="80%" controls muted loop playsinline>
+    <source src="https://github.com/adilshiyas/trochoidal-patterns/raw/main/videos/Troch_16x_PVs.mp4" type="video/mp4">
+  </video>
+  <br>
+  Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
+</p>
+
