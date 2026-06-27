@@ -3,6 +3,12 @@
 This repository contains MATLAB simulation code associated with the paper:  
 [**Design of planar collision-free trochoidal paths for a multi-robot swarm**](https://www.sciencedirect.com/science/article/abs/pii/S0947358024002036)
 
+![demo](videos/trochoids.gif)
+
+<p align="center">
+  Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
+</p>
+
 ## Overview
 
 This work extends an existing distributed consensus protocol that enables a connected swarm of agents to generate trochoidal motion patterns, while additionally satisfying a set of geometric and temporal constraints.  
@@ -15,14 +21,5 @@ The design methodology for enforcing these constraints is discussed in detail in
 - MATLAB scripts for trajectory generation and simulation  
 - Visualization scripts for solution space and trajectory analysis  
 
-## Real-World Implementation
-
-The following video demonstrates collision-free trochoidal trajectories executed by a multi-robot indoor mobile robot platform.
-
-![demo](videos/trochoids.gif)
-
-<p align="center">
-  Trochoidal trajectories executed by a 3-robot indoor swarm (16× speed)
-</p>
 
 
